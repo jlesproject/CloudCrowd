@@ -35,7 +35,7 @@ resource "aws_launch_template" "app1_LT" {
     <head>
     <title>Details for EC2 instance</title>
     </head>
-    <body>
+    <iframe src="https://giphy.com/embed/XBdAZCQtp6bA4iqy9o" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mia-drifting-bad-girls-XBdAZCQtp6bA4iqy9o"</a></p>
     <div>
     <h1>Cloud Crowd Clan</h1>
     <h1>Aint Nothin to **** With! </h1>
